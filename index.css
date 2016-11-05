@@ -110,6 +110,7 @@ nav a {
 
 nav a:hover {
     color: #202020;
+    text-decoration: none;
 
     transition: 0.4s;
     -o-transition: 0.4s;
